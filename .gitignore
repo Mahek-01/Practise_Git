@@ -1,0 +1,9 @@
+# ignore perticulare file
+db.sql
+
+
+# ignore all .log file
+*.log
+
+# track this one .log file
+!mahek.log
