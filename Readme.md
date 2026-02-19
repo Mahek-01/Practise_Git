@@ -4,3 +4,7 @@
  - Fine
  - Not Fine
  - Average
+
+2. What are you doing?
+- Nothing
+- Doing
