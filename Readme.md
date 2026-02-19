@@ -8,3 +8,7 @@
 2. What are you doing?
 - Nothing
 - Doing
+
+3. Fine or Not?
+- Fine
+- NotFine
